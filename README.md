@@ -1,5 +1,4 @@
-# eCurrency Converter Chrome Extension
-
-### WIP
+# WIP
+### eCurrency Converter Chrome Extension
 
 Experiment for currency convertion in amazon.com
